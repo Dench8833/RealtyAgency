@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32fcc19d-2a46-4063-b659-3bd13f3208d6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/realty-agency.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/realty-agency.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/bundles.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/bundles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/packages/framework.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/config/packages/framework.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Controller/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/symfony.lock" beforeDir="false" afterPath="$PROJECT_DIR$/symfony.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,68 +18,61 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-96511146">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="env" value="2" />
           <entry key="gitignore" value="1" />
-          <entry key="php" value="1" />
+          <entry key="json" value="1" />
+          <entry key="php" value="2" />
           <entry key="twig" value="1" />
+          <entry key="yaml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="1" />
+          <entry key="JSON" value="1" />
+          <entry key="PHP" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="Twig" value="1" />
+          <entry key="YAML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="165" />
+          <entry key="php" value="175" />
           <entry key="txt" value="14" />
+          <entry key="yaml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PHP" value="165" />
+          <entry key="PHP" value="175" />
           <entry key="PLAIN_TEXT" value="14" />
+          <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Controller/AdminController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-              <folding>
-                <element signature="e#55#120#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/admin/index.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-              <folding>
-                <element signature="e#12#26#0#Twig" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -84,6 +85,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/config/bundles.php" />
+        <option value="$PROJECT_DIR$/config/packages/framework.yaml" />
+        <option value="$PROJECT_DIR$/config/routes/sonata_admin.yaml" />
         <option value="$PROJECT_DIR$/src/Controller/AdminController.php" />
       </list>
     </option>
@@ -93,6 +97,28 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/public/bundles/sonataadmin/vendor/admin-lte/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonataadmin/vendor/jquery.scrollTo/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonataadmin/vendor/jqueryui/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonataadmin/vendor/readmore-js/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonataadmin/vendor/slimScroll/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonatacore/vendor/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonatacore/vendor/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonatacore/vendor/eonasdan-bootstrap-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/public/bundles/sonatacore/vendor/select2/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/admin-bundle/src/Resources/public/vendor/admin-lte/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/admin-bundle/src/Resources/public/vendor/jquery.scrollTo/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/admin-bundle/src/Resources/public/vendor/jqueryui/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/admin-bundle/src/Resources/public/vendor/readmore-js/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/admin-bundle/src/Resources/public/vendor/slimScroll/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/core-bundle/src/Resources/public/vendor/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/core-bundle/src/Resources/public/vendor/components-font-awesome/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/core-bundle/src/Resources/public/vendor/eonasdan-bootstrap-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/core-bundle/src/Resources/public/vendor/select2/package.json" />
+    </packageJsonPaths>
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -192,6 +218,19 @@
       <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
       <path value="$PROJECT_DIR$/vendor/ocramius/package-versions" />
       <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-acl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/templating" />
+      <path value="$PROJECT_DIR$/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/datagrid-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/admin-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/block-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/cache" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/core-bundle" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-menu" />
+      <path value="$PROJECT_DIR$/vendor/knplabs/knp-menu-bundle" />
+      <path value="$PROJECT_DIR$/vendor/cocur/slugify" />
+      <path value="$PROJECT_DIR$/vendor/sonata-project/doctrine-orm-admin-bundle" />
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
@@ -218,23 +257,19 @@
             <path>
               <item name="realty-agency" type="b2602c69:ProjectViewProjectNode" />
               <item name="realty-agency" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="realty-agency" type="b2602c69:ProjectViewProjectNode" />
               <item name="realty-agency" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="realty-agency" type="b2602c69:ProjectViewProjectNode" />
               <item name="realty-agency" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="admin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="realty-agency" type="b2602c69:ProjectViewProjectNode" />
-              <item name="realty-agency" type="462c0819:PsiDirectoryNode" />
-              <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -272,7 +307,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1539111656909</updated>
-      <workItem from="1539111659231" duration="6287000" />
+      <workItem from="1539111659231" duration="6701000" />
+      <workItem from="1539198608514" duration="4495000" />
     </task>
     <task id="LOCAL-00001" summary="09-10-18 23:43">
       <created>1539117801227</created>
@@ -285,20 +321,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6287000" />
+    <option name="totallyTimeSpent" value="11196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="25" width="1869" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17498629" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17718047" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49972573" weight="0.32864866" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.5002743" side_tool="true" weight="0.13160734" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -306,10 +337,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49972573" visible="true" weight="0.37513512" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5002743" side_tool="true" weight="0.13160734" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,19 +369,44 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#12#26#0#Twig" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes/sonata_admin.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/framework.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/packages/sonata_admin.yaml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/bundles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="67" selection-start-line="25" selection-start-column="67" selection-end-line="25" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Controller/AdminController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="28" lean-forward="true" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="e#55#120#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
         </state>
       </provider>
     </entry>
