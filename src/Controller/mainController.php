@@ -16,7 +16,7 @@ use Symfony\Component\Validator\Constraints\Date;
 class mainController extends AbstractController
 {
     /**
-     * @Route("/main/index")
+     * @Route("/main/index", name="main_page")
      */
     public function index()
     {
