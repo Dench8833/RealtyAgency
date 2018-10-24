@@ -16,12 +16,12 @@ use Symfony\Component\Validator\Constraints\Date;
 class mainController extends AbstractController
 {
     /**
-     * @Route("/main/index", name="main_page")
+     * @Route("/", name="main_page")
      */
     public function index()
     {
         $time = date('d-m-Y');
 
-        return $this->render('main/index.html.twig', ['time' => $time]);
+        return $this->render('base.html.twig', ['time' => $time]);
     }
 }
