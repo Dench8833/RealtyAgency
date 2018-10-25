@@ -190,6 +190,6 @@ class __TwigTemplate_44c87151471563d88f73a909a7992d44ff224ec168390bfa87cdb2a61ba
         })|raw }}
     </div>
 {% endif %}
-", "@Twig/Exception/trace.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/Exception/trace.html.twig");
+", "@Twig/Exception/trace.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/Exception/trace.html.twig");
     }
 }

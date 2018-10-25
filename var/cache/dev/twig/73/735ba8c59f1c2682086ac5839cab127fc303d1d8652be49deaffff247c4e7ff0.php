@@ -197,6 +197,6 @@ class __TwigTemplate_cd0c75b668ef990a493037f881e61e2c338f07e7e0e3fe7164803cbadf9
     {% endfor %}
     </div>
 {% endmacro %}
-", "@SonataAdmin/CRUD/base_edit_form_macro.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_edit_form_macro.html.twig");
+", "@SonataAdmin/CRUD/base_edit_form_macro.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_edit_form_macro.html.twig");
     }
 }

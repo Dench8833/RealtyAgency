@@ -55,6 +55,6 @@ class __TwigTemplate_20afece097e2f30d90a27f50659c4ffb18e02bb5b6aa91f6a690470e031
     public function getSourceContext()
     {
         return new Twig_Source("{{ { 'error': { 'code': status_code, 'message': status_text, 'exception': exception.toarray } }|json_encode|raw }}
-", "@Twig/Exception/exception.json.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/Exception/exception.json.twig");
+", "@Twig/Exception/exception.json.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/Exception/exception.json.twig");
     }
 }

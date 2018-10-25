@@ -71,6 +71,6 @@ file that was distributed with this source code.
 {# This file is kept here for backward compatibility - Rather use @SonataAdmin/Button/create_button.html.twig #}
 
 {% extends '@SonataAdmin/Button/create_button.html.twig' %}
-", "@SonataAdmin/Core/create_button.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/create_button.html.twig");
+", "@SonataAdmin/Core/create_button.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/create_button.html.twig");
     }
 }

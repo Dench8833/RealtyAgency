@@ -936,6 +936,6 @@ class __TwigTemplate_eb73afca12eae1bf66b39ed037eff6c19823215e64d711b0d98309cbc1a
         </table>
     {% endif %}
 {% endblock %}
-", "@WebProfiler/Collector/config.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/config.html.twig");
+", "@WebProfiler/Collector/config.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/config.html.twig");
     }
 }

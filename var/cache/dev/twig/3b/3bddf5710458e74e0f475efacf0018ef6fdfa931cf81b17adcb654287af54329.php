@@ -81,6 +81,6 @@ class __TwigTemplate_3c076b2afaacd2cffa230f0c428c7eddb02b4f2165a3ba4aa9281fc1035
             </trace>
 {% endfor %}
         </traces>
-", "@Twig/Exception/traces.xml.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/Exception/traces.xml.twig");
+", "@Twig/Exception/traces.xml.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/Exception/traces.xml.twig");
     }
 }

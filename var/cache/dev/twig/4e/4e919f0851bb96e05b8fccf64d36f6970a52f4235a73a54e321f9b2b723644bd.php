@@ -234,6 +234,6 @@ file that was distributed with this source code.
         {{ parent() }}
     {% endblock %}
 {% endblock %}
-", "@SonataAdmin/empty_layout.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/empty_layout.html.twig");
+", "@SonataAdmin/empty_layout.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/empty_layout.html.twig");
     }
 }

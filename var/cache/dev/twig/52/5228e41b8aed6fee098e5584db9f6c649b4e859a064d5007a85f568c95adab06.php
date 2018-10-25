@@ -57,6 +57,6 @@ class __TwigTemplate_eccb6adbf309a5b0f6d1b0e39cdfa2f9b4e99cea7bd74781b51b9252bd3
 <?php else: ?>
 <?php echo \$view['form']->block(\$form, 'form_widget_simple')?>
 <?php endif ?>
-", "@Framework/Form/form_widget.html.php", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/framework-bundle/Resources/views/Form/form_widget.html.php");
+", "@Framework/Form/form_widget.html.php", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/framework-bundle/Resources/views/Form/form_widget.html.php");
     }
 }

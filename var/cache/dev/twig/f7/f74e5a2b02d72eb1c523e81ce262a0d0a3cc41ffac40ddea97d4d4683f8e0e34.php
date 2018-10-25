@@ -65,6 +65,6 @@ class __TwigTemplate_973f6487916b8c26068c7ae5d0eeffa5b272b01ce71e68c7655bc0ddb62
     public function getSourceContext()
     {
         return new Twig_Source("{% block user_block %}{# Customize this value #}{% endblock %}
-", "@SonataAdmin/Core/user_block.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/user_block.html.twig");
+", "@SonataAdmin/Core/user_block.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/user_block.html.twig");
     }
 }

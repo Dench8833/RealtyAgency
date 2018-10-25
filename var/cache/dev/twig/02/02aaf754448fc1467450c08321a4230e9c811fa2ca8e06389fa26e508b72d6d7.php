@@ -69,6 +69,6 @@ file that was distributed with this source code.
 #}
 
 {{ revision.timestamp|date }}
-", "@SonataAdmin/CRUD/history_revision_timestamp.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/history_revision_timestamp.html.twig");
+", "@SonataAdmin/CRUD/history_revision_timestamp.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/history_revision_timestamp.html.twig");
     }
 }

@@ -88,6 +88,6 @@ class __TwigTemplate_944bfaf04d714f5d3080da78b4dd6c3ca20c661cff6b5ca221be7b15a9e
     {% if link|default(false) %}</a>{% endif %}
         <div class=\"sf-toolbar-info\">{{ text|default('') }}</div>
 </div>
-", "@WebProfiler/Profiler/toolbar_item.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar_item.html.twig");
+", "@WebProfiler/Profiler/toolbar_item.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/web-profiler-bundle/Resources/views/Profiler/toolbar_item.html.twig");
     }
 }

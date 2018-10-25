@@ -92,6 +92,6 @@ file that was distributed with this source code.
 <div id=\"cms-block-{{ block.id }}\" class=\"cms-block cms-block-element\">
     {% block block %}EMPTY CONTENT{% endblock %}
 </div>
-", "@SonataBlock/Block/block_base.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_base.html.twig");
+", "@SonataBlock/Block/block_base.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_base.html.twig");
     }
 }

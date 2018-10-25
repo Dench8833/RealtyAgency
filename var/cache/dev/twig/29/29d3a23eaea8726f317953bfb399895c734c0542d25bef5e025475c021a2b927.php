@@ -55,6 +55,6 @@ class __TwigTemplate_4a0a381100eb827844a6b1f105265a15b4cb3bc1e5835680a4604b9c782
     <?php \$attr['data-prototype'] = \$view->escape(\$view['form']->row(\$prototype)) ?>
 <?php endif ?>
 <?php echo \$view['form']->widget(\$form, array('attr' => \$attr)) ?>
-", "@Framework/Form/collection_widget.html.php", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/framework-bundle/Resources/views/Form/collection_widget.html.php");
+", "@Framework/Form/collection_widget.html.php", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/framework-bundle/Resources/views/Form/collection_widget.html.php");
     }
 }

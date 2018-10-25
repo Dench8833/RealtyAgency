@@ -20,8 +20,14 @@ class mainController extends AbstractController
      */
     public function index()
     {
-        $time = date('d-m-Y');
+        return $this->render('base.html.twig');
+    }
 
-        return $this->render('base.html.twig', ['time' => $time]);
+    /**
+     * @Route("/apartment", name="apartment")
+     */
+    public function apartments()
+    {
+        return $this->render('main/apartment.html.twig');
     }
 }

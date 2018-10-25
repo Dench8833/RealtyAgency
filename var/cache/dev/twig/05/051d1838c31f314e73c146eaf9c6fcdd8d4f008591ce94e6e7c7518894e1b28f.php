@@ -992,6 +992,6 @@ class __TwigTemplate_01eb451165003268d8c0a5004ef98395357ef21af90fb5599e7fddb105e
         {% endif %}
     {% endfor %}
 {% endblock %}
-", "@Swiftmailer/Collector/swiftmailer.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/swiftmailer-bundle/Resources/views/Collector/swiftmailer.html.twig");
+", "@Swiftmailer/Collector/swiftmailer.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/swiftmailer-bundle/Resources/views/Collector/swiftmailer.html.twig");
     }
 }

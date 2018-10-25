@@ -99,6 +99,6 @@ file that was distributed with this source code.
         {{ form_widget(field_element, {'attr': {'class' : 'title'}}) }}
     </span>
 {% endblock %}
-", "@SonataAdmin/CRUD/edit_array.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/edit_array.html.twig");
+", "@SonataAdmin/CRUD/edit_array.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/edit_array.html.twig");
     }
 }

@@ -103,6 +103,6 @@ file that was distributed with this source code.
         {{ field_description.options.currency }} {{ value }}
     {% endif %}
 {% endblock %}
-", "@SonataAdmin/CRUD/show_currency.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_currency.html.twig");
+", "@SonataAdmin/CRUD/show_currency.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_currency.html.twig");
     }
 }

@@ -103,6 +103,6 @@ file that was distributed with this source code.
         {{ 'list_select'|trans({}, 'SonataAdminBundle') }}
     </a>
 {% endblock %}
-", "@SonataAdmin/CRUD/list__select.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list__select.html.twig");
+", "@SonataAdmin/CRUD/list__select.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list__select.html.twig");
     }
 }

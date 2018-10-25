@@ -68,6 +68,6 @@ file that was distributed with this source code.
 #}
 
 {% extends '@SonataAdmin/Form/filter_admin_fields.html.twig' %}
-", "@SonataDoctrineORMAdmin/Form/filter_admin_fields.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/Form/filter_admin_fields.html.twig");
+", "@SonataDoctrineORMAdmin/Form/filter_admin_fields.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/Form/filter_admin_fields.html.twig");
     }
 }

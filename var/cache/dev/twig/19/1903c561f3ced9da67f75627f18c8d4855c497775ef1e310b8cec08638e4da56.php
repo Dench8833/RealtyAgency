@@ -248,6 +248,6 @@ class __TwigTemplate_d70f8875980b78a215b353b11d20252ea999244bddab83a380739c71af6
         {{- form_rest(form) -}}
     </table>
 {%- endblock form_widget_compound -%}
-", "form_table_layout.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bridge/Resources/views/Form/form_table_layout.html.twig");
+", "form_table_layout.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bridge/Resources/views/Form/form_table_layout.html.twig");
     }
 }

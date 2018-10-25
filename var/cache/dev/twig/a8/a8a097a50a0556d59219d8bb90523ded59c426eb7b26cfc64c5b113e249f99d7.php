@@ -200,6 +200,6 @@ file that was distributed with this source code.
         </div>
     </div>
 {% endblock %}
-", "@SonataBlock/Block/block_core_rss.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_core_rss.html.twig");
+", "@SonataBlock/Block/block_core_rss.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_core_rss.html.twig");
     }
 }

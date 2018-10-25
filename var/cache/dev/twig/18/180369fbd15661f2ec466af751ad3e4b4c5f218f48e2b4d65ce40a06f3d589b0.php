@@ -138,6 +138,6 @@ class __TwigTemplate_f6ff294a30a5913e92e60f8bc07cb18c6138bcd6a385a4eb51b9db63c15
 {% block panel %}
     {{ render(path('_profiler_router', { token: token })) }}
 {% endblock %}
-", "@WebProfiler/Collector/router.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/router.html.twig");
+", "@WebProfiler/Collector/router.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/router.html.twig");
     }
 }

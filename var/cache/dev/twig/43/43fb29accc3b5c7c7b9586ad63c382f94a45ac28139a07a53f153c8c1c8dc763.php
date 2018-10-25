@@ -104,6 +104,6 @@ file that was distributed with this source code.
         <h3>{{ exception.message }}</h3>
     </div>
 {% endblock %}
-", "@SonataBlock/Block/block_exception.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_exception.html.twig");
+", "@SonataBlock/Block/block_exception.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_exception.html.twig");
     }
 }

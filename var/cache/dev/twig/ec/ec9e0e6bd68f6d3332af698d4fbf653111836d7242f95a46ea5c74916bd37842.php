@@ -482,6 +482,6 @@ file that was distributed with this source code.
     {% set endId = (form.children.end.vars.datepicker_use_button ? 'dp_' : '') ~ form.children.end.vars.id %}
     {{ block('sonata_type_datetime_range_script_block') }}
 {% endblock sonata_type_date_range_picker_widget %}
-", "@SonataCore/Form/datepicker.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/core-bundle/src/Resources/views/Form/datepicker.html.twig");
+", "@SonataCore/Form/datepicker.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/core-bundle/src/Resources/views/Form/datepicker.html.twig");
     }
 }

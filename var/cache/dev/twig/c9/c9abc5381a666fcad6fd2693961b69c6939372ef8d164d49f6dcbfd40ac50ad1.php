@@ -91,6 +91,6 @@ file that was distributed with this source code.
         </div>
     </div>
 </div>
-", "@SonataAdmin/CRUD/Association/edit_modal.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_modal.html.twig");
+", "@SonataAdmin/CRUD/Association/edit_modal.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_modal.html.twig");
     }
 }

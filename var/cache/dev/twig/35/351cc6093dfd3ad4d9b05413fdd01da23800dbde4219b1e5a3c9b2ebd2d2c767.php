@@ -523,6 +523,6 @@ class __TwigTemplate_e8ae6b06a67fb6050cafa8a38361d69045b24d6a1da7715079a46948479
 {% block spanElement %}{% import _self as knp_menu %}<span{{ knp_menu.attributes(item.labelAttributes) }}>{{ block('label') }}</span>{% endblock %}
 
 {% block label %}{% if options.allow_safe_labels and item.getExtra('safe_label', false) %}{{ item.label|raw }}{% else %}{{ item.label }}{% endif %}{% endblock %}
-", "knp_menu.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views/knp_menu.html.twig");
+", "knp_menu.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views/knp_menu.html.twig");
     }
 }

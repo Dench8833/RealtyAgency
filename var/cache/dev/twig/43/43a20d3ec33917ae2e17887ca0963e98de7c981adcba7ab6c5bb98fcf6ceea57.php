@@ -421,6 +421,6 @@ class __TwigTemplate_6c7662f16979cd352414b57b56edf8b73fb6bd506114c4059e7d7730e0f
     });
 
 /*]]>*/</script>
-", "@Twig/base_js.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/base_js.html.twig");
+", "@Twig/base_js.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/base_js.html.twig");
     }
 }

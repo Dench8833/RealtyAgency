@@ -55,6 +55,6 @@ class __TwigTemplate_fdf53a8bfe0f153d6fe86f3a34d41ffbd68d37a15d7c6b5701e2d00c638
     public function getSourceContext()
     {
         return new Twig_Source("{{ include('@Twig/Exception/error.xml.twig') }}
-", "@Twig/Exception/error.rdf.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/Exception/error.rdf.twig");
+", "@Twig/Exception/error.rdf.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/Exception/error.rdf.twig");
     }
 }

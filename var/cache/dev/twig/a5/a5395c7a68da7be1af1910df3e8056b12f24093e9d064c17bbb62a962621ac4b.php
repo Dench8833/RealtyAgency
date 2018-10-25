@@ -180,6 +180,6 @@ file that was distributed with this source code.
         {% endif %}
     </ul>
 </div>
-", "@SonataAdmin/Pager/base_links.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/base_links.html.twig");
+", "@SonataAdmin/Pager/base_links.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/base_links.html.twig");
     }
 }

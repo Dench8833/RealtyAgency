@@ -115,6 +115,6 @@ file that was distributed with this source code.
         </div>
     {% endfor %}
 {% endfor %}
-", "@SonataCore/FlashMessage/render.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/core-bundle/src/Resources/views/FlashMessage/render.html.twig");
+", "@SonataCore/FlashMessage/render.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/core-bundle/src/Resources/views/FlashMessage/render.html.twig");
     }
 }

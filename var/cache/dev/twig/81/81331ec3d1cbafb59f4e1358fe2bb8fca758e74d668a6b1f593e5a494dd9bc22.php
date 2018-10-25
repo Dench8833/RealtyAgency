@@ -514,6 +514,6 @@ class __TwigTemplate_0bc907c92c8425514ef774e1d06b1f3025871a00b81c8b1d8916f36d326
     )
 -}}
 {% endblock %}
-", "@SonataAdmin/Core/tab_menu_template.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/tab_menu_template.html.twig");
+", "@SonataAdmin/Core/tab_menu_template.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/tab_menu_template.html.twig");
     }
 }

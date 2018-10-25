@@ -215,6 +215,6 @@ file that was distributed with this source code.
     {% endfor %}
     {% if decorator %}{{ decorator.post|raw }}{% endif %}
 {% endblock %}
-", "@SonataBlock/Block/block_container.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_container.html.twig");
+", "@SonataBlock/Block/block_container.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_container.html.twig");
     }
 }

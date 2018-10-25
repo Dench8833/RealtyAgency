@@ -270,6 +270,6 @@ This code manage the one-to-many association field popup
 <!-- / edit one association -->
 
 {% endautoescape %}
-", "@SonataDoctrineORMAdmin/CRUD/edit_orm_one_association_script.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/edit_orm_one_association_script.html.twig");
+", "@SonataDoctrineORMAdmin/CRUD/edit_orm_one_association_script.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/edit_orm_one_association_script.html.twig");
     }
 }

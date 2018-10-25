@@ -99,6 +99,6 @@ file that was distributed with this source code.
     {% set value = value * 100 %}
     {{ value }} %
 {% endblock %}
-", "@SonataAdmin/CRUD/show_percent.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_percent.html.twig");
+", "@SonataAdmin/CRUD/show_percent.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_percent.html.twig");
     }
 }

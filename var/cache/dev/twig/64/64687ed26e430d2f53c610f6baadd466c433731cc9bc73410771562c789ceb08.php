@@ -79,6 +79,6 @@ class __TwigTemplate_5cb6b280c924b1b430d41cbfffe022b4e7948fad94bd8f814a3aa728639
         {{ description }}
     {% endif %}
 </span>
-", "@SonataAdmin/Helper/short-object-description.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Helper/short-object-description.html.twig");
+", "@SonataAdmin/Helper/short-object-description.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Helper/short-object-description.html.twig");
     }
 }

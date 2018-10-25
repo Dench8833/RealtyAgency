@@ -103,6 +103,6 @@ class __TwigTemplate_c5bdd797ba7fbd4846eb077a28d6e0eff1c568b6c659677b865e973e495
     </ol>
 {% endif %}
 {% endblock %}
-", "knp_menu_ordered.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views/knp_menu_ordered.html.twig");
+", "knp_menu_ordered.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views/knp_menu_ordered.html.twig");
     }
 }

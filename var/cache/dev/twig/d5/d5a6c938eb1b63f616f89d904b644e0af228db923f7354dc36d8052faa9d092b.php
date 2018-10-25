@@ -290,6 +290,6 @@ file that was distributed with this source code.
     {{ value }}
 {% endspaceless %}
 {% endblock %}
-", "@SonataAdmin/CRUD/list_choice.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_choice.html.twig");
+", "@SonataAdmin/CRUD/list_choice.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_choice.html.twig");
     }
 }

@@ -778,6 +778,6 @@ class __TwigTemplate_3666fb187b0d16900e1ec91cf6d391ad940927d15f77875b1071678319d
         </table>
     {% endfor %}
 {% endblock %}
-", "@SonataBlock/Profiler/block.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Profiler/block.html.twig");
+", "@SonataBlock/Profiler/block.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Profiler/block.html.twig");
     }
 }

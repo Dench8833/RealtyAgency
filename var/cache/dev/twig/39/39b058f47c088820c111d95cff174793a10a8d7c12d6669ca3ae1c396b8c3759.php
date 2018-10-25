@@ -267,6 +267,6 @@ This code manages the one-to-many association field popup
 <!-- / edit one association -->
 
 {% endautoescape %}
-", "@SonataAdmin/CRUD/Association/edit_one_script.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_one_script.html.twig");
+", "@SonataAdmin/CRUD/Association/edit_one_script.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_one_script.html.twig");
     }
 }

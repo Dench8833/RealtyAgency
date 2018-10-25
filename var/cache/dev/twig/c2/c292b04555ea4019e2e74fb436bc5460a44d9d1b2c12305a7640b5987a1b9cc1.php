@@ -67,6 +67,6 @@ file that was distributed with this source code.
 #}
 
 {% extends base_template %}
-", "@SonataAdmin/CRUD/edit_sonata_type_immutable_array.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/edit_sonata_type_immutable_array.html.twig");
+", "@SonataAdmin/CRUD/edit_sonata_type_immutable_array.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/edit_sonata_type_immutable_array.html.twig");
     }
 }

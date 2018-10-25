@@ -194,6 +194,6 @@ file that was distributed with this source code.
         {% endfor %}
     </select>
 {% endblock %}
-", "@SonataAdmin/Pager/base_results.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/base_results.html.twig");
+", "@SonataAdmin/Pager/base_results.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/base_results.html.twig");
     }
 }

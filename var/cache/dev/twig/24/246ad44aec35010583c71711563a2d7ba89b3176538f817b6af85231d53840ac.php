@@ -591,6 +591,6 @@ file that was distributed with this source code.
     {{ sonata_block_render_event('sonata.admin.dashboard.bottom', { 'admin_pool': sonata_admin.adminPool }) }}
 
 {% endblock %}
-", "@SonataAdmin/Core/dashboard.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/dashboard.html.twig");
+", "@SonataAdmin/Core/dashboard.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Core/dashboard.html.twig");
     }
 }

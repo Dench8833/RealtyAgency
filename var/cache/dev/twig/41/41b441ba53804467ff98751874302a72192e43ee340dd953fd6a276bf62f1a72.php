@@ -465,6 +465,6 @@ class __TwigTemplate_9292e96ee5e21af959a00e9004fb3bbcab6dc66d66e8c9d7009f3c73067
         {% endfor %}
     </table>
 {% endmacro %}
-", "@WebProfiler/Collector/events.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/events.html.twig");
+", "@WebProfiler/Collector/events.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/events.html.twig");
     }
 }

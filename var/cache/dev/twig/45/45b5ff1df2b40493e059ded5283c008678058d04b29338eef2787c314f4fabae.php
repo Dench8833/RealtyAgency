@@ -86,6 +86,6 @@ file that was distributed with this source code.
         {{ 'action_delete'|trans({}, 'SonataAdminBundle') }}
     </a>
 {% endif %}
-", "@SonataAdmin/CRUD/list__action_delete.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list__action_delete.html.twig");
+", "@SonataAdmin/CRUD/list__action_delete.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list__action_delete.html.twig");
     }
 }

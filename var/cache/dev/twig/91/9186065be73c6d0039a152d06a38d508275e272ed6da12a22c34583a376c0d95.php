@@ -273,6 +273,6 @@ file that was distributed with this source code.
         </div>
     </div>
 {% endblock %}
-", "@SonataAdmin/Block/block_search_result.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Block/block_search_result.html.twig");
+", "@SonataAdmin/Block/block_search_result.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Block/block_search_result.html.twig");
     }
 }

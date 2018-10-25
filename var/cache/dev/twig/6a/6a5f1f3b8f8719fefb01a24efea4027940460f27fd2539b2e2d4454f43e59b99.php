@@ -719,6 +719,6 @@ class __TwigTemplate_13af73d8f8d610fe8262085de7c8709af5f12186818f23e6604836095fa
     {{ sonata_block_render_event('sonata.admin.edit.form.bottom', { 'admin': admin, 'object': object }) }}
 
 {% endblock %}
-", "@SonataAdmin/CRUD/base_edit_form.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_edit_form.html.twig");
+", "@SonataAdmin/CRUD/base_edit_form.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_edit_form.html.twig");
     }
 }

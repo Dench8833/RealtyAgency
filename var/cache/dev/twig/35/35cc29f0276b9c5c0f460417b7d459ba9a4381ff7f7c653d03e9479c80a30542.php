@@ -983,6 +983,6 @@ file that was distributed with this source code.
         {% endautoescape %}
     </script>
 {% endspaceless %}
-", "@SonataAdmin/Form/Type/sonata_type_model_autocomplete.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Form/Type/sonata_type_model_autocomplete.html.twig");
+", "@SonataAdmin/Form/Type/sonata_type_model_autocomplete.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Form/Type/sonata_type_model_autocomplete.html.twig");
     }
 }

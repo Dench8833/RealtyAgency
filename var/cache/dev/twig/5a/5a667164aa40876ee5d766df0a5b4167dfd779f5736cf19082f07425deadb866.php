@@ -457,6 +457,6 @@ file that was distributed with this source code.
 {% block sonata_type_model_autocomplete_widget %}
     {% include template %}
 {% endblock sonata_type_model_autocomplete_widget %}
-", "@SonataAdmin/Form/filter_admin_fields.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Form/filter_admin_fields.html.twig");
+", "@SonataAdmin/Form/filter_admin_fields.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Form/filter_admin_fields.html.twig");
     }
 }

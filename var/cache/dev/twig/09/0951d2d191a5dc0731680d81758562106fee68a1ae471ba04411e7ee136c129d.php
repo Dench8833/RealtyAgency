@@ -265,6 +265,6 @@ file that was distributed with this source code.
         </div>
     </div>
 {% endblock %}
-", "@SonataAdmin/CRUD/batch_confirmation.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/batch_confirmation.html.twig");
+", "@SonataAdmin/CRUD/batch_confirmation.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/batch_confirmation.html.twig");
     }
 }

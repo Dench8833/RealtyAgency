@@ -53,6 +53,6 @@ class __TwigTemplate_f6e2f05b6c3f3a3476d1e0ec1f3bd74968859966d0a6e48ffe21a96b823
         return new Twig_Source("<svg height=\"24\" viewBox=\"0 0 1792 1792\" xmlns=\"http://www.w3.org/2000/svg\">
     <path fill=\"#AAAAAA\" d=\"M832 1024v384q0 52-38 90t-90 38h-512q-52 0-90-38t-38-90v-384q0-52 38-90t90-38h512q52 0 90 38t38 90zm0-768v384q0 52-38 90t-90 38h-512q-52 0-90-38t-38-90v-384q0-52 38-90t90-38h512q52 0 90 38t38 90zm896 768v384q0 52-38 90t-90 38h-512q-52 0-90-38t-38-90v-384q0-52 38-90t90-38h512q52 0 90 38t38 90zm0-768v384q0 52-38 90t-90 38h-512q-52 0-90-38t-38-90v-384q0-52 38-90t90-38h512q52 0 90 38t38 90z\"/>
 </svg>
-", "@SonataBlock/Profiler/icon.svg", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Profiler/icon.svg");
+", "@SonataBlock/Profiler/icon.svg", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Profiler/icon.svg");
     }
 }

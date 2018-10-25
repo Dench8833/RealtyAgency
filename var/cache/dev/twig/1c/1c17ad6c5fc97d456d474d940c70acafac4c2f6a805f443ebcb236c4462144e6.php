@@ -287,6 +287,6 @@ file that was distributed with this source code.
         {{ parent() }}
     </div>
 {% endblock %}
-", "@SonataAdmin/CRUD/preview.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/preview.html.twig");
+", "@SonataAdmin/CRUD/preview.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/preview.html.twig");
     }
 }

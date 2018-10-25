@@ -57,6 +57,6 @@ class __TwigTemplate_c8b0fda004d19a75769217a5e5ab3fdb1525940f71d96055832ac2fa5cc
     public function getSourceContext()
     {
         return new Twig_Source("{% if options.compressed %}{{ block('compressed_root') }}{% else %}{{ block('root') }}{% endif %}
-", "knp_menu_base.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views/knp_menu_base.html.twig");
+", "knp_menu_base.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/knplabs/knp-menu/src/Knp/Menu/Resources/views/knp_menu_base.html.twig");
     }
 }

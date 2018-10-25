@@ -255,6 +255,6 @@ file that was distributed with this source code.
 {%- block relation_value -%}
     {{- element|render_relation_element(field_description) -}}
 {%- endblock -%}
-", "@SonataDoctrineORMAdmin/CRUD/list_orm_one_to_many.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/list_orm_one_to_many.html.twig");
+", "@SonataDoctrineORMAdmin/CRUD/list_orm_one_to_many.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/list_orm_one_to_many.html.twig");
     }
 }

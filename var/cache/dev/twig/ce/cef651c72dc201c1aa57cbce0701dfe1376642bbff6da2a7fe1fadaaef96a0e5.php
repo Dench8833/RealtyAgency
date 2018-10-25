@@ -136,6 +136,6 @@ file that was distributed with this source code.
         {{ object|render_list_element(admin.list['_action']) }}
     </td>
 {% endif %}
-", "@SonataAdmin/CRUD/base_list_flat_inner_row.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_list_flat_inner_row.html.twig");
+", "@SonataAdmin/CRUD/base_list_flat_inner_row.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_list_flat_inner_row.html.twig");
     }
 }

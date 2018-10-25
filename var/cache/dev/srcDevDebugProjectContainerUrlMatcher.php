@@ -62,10 +62,16 @@ class srcDevDebugProjectContainerUrlMatcher extends Symfony\Bundle\FrameworkBund
         }
 
         switch ($pathinfo) {
+            case '/':
+                // main_page
+                return array('_route' => 'main_page', '_controller' => 'App\\Controller\\mainController::index');
+                // index
+                return array('_route' => 'index', '_controller' => 'App\\Controller\\MainController::index');
+                break;
             default:
                 $routes = array(
                     '/login' => array(array('_route' => 'app_login', '_controller' => 'App\\Controller\\SecurityController::login'), null, null, null),
-                    '/main/index' => array(array('_route' => 'main_page', '_controller' => 'App\\Controller\\mainController::index'), null, null, null),
+                    '/apartment' => array(array('_route' => 'apartment', '_controller' => 'App\\Controller\\mainController::apartments'), null, null, null),
                     '/admin/' => array(array('_route' => 'sonata_admin_redirect', '_controller' => 'Symfony\\Bundle\\FrameworkBundle\\Controller\\RedirectController::redirectAction', 'route' => 'sonata_admin_dashboard', 'permanent' => 'true'), null, null, null),
                     '/admin/dashboard' => array(array('_route' => 'sonata_admin_dashboard', '_controller' => 'Sonata\\AdminBundle\\Action\\DashboardAction'), null, null, null),
                     '/admin/core/get-form-field-element' => array(array('_route' => 'sonata_admin_retrieve_form_element', '_controller' => 'sonata.admin.action.retrieve_form_field_element'), null, null, null),

@@ -100,6 +100,6 @@ file that was distributed with this source code.
         {{ object|render_list_element(field_description) }}
     {% endif %}
 {% endfor %}
-", "@SonataAdmin/CRUD/base_list_inner_row.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_list_inner_row.html.twig");
+", "@SonataAdmin/CRUD/base_list_inner_row.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_list_inner_row.html.twig");
     }
 }

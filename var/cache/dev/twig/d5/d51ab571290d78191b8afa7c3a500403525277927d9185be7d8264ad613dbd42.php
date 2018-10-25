@@ -244,6 +244,6 @@ file that was distributed with this source code.
         </td>
     {% endif %}
 {% endblock %}
-", "@SonataAdmin/CRUD/base_show_field.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_show_field.html.twig");
+", "@SonataAdmin/CRUD/base_show_field.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_show_field.html.twig");
     }
 }

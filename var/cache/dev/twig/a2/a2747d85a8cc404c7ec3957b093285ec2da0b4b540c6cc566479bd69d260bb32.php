@@ -105,6 +105,6 @@ file that was distributed with this source code.
 
     {{valueFormat|format(value)|trans({}, translationDomain)}}
 {% endblock %}
-", "@SonataAdmin/CRUD/list_trans.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_trans.html.twig");
+", "@SonataAdmin/CRUD/list_trans.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_trans.html.twig");
     }
 }

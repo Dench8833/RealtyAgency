@@ -68,6 +68,6 @@ class __TwigTemplate_f214cde484b6bef5191fdfeed84a2b3a074a3831c26d959528a4800d96e
     <i class=\"fa fa-{{ action.icon }}\" aria-hidden=\"true\"></i>
     {{ action.label|trans({}, action.translation_domain|default('SonataAdminBundle')) }}
 </a>
-", "@SonataAdmin/CRUD/dashboard__action.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/dashboard__action.html.twig");
+", "@SonataAdmin/CRUD/dashboard__action.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/dashboard__action.html.twig");
     }
 }

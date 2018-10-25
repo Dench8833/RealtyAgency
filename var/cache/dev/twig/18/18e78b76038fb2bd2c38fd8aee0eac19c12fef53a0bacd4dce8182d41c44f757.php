@@ -123,6 +123,6 @@ class __TwigTemplate_677c034413fc78daf3bba7864faaeb2b41b6cbd8b48f4e88e9bf158a309
         {{- value -}}
     </a>
 {%- endif -%}
-", "@SonataAdmin/CRUD/_email_link.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/_email_link.html.twig");
+", "@SonataAdmin/CRUD/_email_link.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/_email_link.html.twig");
     }
 }

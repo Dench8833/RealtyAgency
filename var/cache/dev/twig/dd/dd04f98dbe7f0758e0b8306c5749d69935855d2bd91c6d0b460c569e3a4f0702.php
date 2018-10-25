@@ -296,6 +296,6 @@ file that was distributed with this source code.
         </div>
     </form>
 {% endmacro %}
-", "@SonataAdmin/CRUD/base_acl_macro.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_acl_macro.html.twig");
+", "@SonataAdmin/CRUD/base_acl_macro.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_acl_macro.html.twig");
     }
 }

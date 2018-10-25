@@ -156,6 +156,6 @@ file that was distributed with this source code.
     Redefine the content block in your action template
 
 {% endblock %}
-", "@SonataAdmin/CRUD/action.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/action.html.twig");
+", "@SonataAdmin/CRUD/action.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/action.html.twig");
     }
 }

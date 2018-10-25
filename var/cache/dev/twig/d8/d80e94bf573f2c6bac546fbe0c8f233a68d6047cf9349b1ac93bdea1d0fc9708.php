@@ -94,6 +94,6 @@ file that was distributed with this source code.
 {% block block %}
     {{ knp_menu_render(menu, menu_options) }}
 {% endblock %}
-", "@SonataBlock/Block/block_core_menu.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_core_menu.html.twig");
+", "@SonataBlock/Block/block_core_menu.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_core_menu.html.twig");
     }
 }

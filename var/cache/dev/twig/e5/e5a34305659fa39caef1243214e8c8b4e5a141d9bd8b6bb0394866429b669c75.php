@@ -68,6 +68,6 @@ file that was distributed with this source code.
 #}
 
 {% extends '@SonataAdmin/Pager/base_results.html.twig' %}
-", "@SonataAdmin/Pager/results.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/results.html.twig");
+", "@SonataAdmin/Pager/results.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/results.html.twig");
     }
 }

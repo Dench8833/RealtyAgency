@@ -94,6 +94,6 @@ class __TwigTemplate_e3bf882956765b60ddb60bb3dbc47ba7d32475372168d82264741f3976b
     </exception>
 {% endfor %}
 </error>
-", "@Twig/Exception/exception.xml.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/Exception/exception.xml.twig");
+", "@Twig/Exception/exception.xml.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/Exception/exception.xml.twig");
     }
 }

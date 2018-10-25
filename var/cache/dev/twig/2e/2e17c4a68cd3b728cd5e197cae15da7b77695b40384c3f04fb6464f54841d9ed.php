@@ -303,6 +303,6 @@ class __TwigTemplate_c00ac42ac4fac30fd9dccb2addd91eba19aa5c10752739756f752804985
 {% endblock %}
 
 {% block label %}{% if is_link is defined and is_link %}{{ icon|default|raw }}{% endif %}{% if options.allow_safe_labels and item.extra('safe_label', false) %}{{ item.label|raw }}{% else %}{{ item.label|trans({}, translation_domain|default('messages')) }}{% endif %}{% endblock %}
-", "@SonataAdmin/Menu/sonata_menu.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Menu/sonata_menu.html.twig");
+", "@SonataAdmin/Menu/sonata_menu.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Menu/sonata_menu.html.twig");
     }
 }

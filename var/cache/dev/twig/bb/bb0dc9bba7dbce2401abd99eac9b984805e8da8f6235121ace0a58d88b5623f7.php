@@ -92,6 +92,6 @@ file that was distributed with this source code.
 {% block field %}
     {%- include '@SonataAdmin/CRUD/display_boolean.html.twig' -%}
 {% endblock %}
-", "@SonataAdmin/CRUD/show_boolean.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_boolean.html.twig");
+", "@SonataAdmin/CRUD/show_boolean.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_boolean.html.twig");
     }
 }

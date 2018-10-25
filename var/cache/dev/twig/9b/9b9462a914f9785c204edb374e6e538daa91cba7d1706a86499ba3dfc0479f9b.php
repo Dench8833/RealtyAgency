@@ -67,6 +67,6 @@ file that was distributed with this source code.
 #}
 
 {% extends get_admin_template('base_list_field', admin.code) %}
-", "@SonataAdmin/CRUD/list_string.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_string.html.twig");
+", "@SonataAdmin/CRUD/list_string.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_string.html.twig");
     }
 }

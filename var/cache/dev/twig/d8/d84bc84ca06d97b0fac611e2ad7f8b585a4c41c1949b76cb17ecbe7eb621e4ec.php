@@ -53,6 +53,6 @@ class __TwigTemplate_7107b9c67b91abf9bb1e05a1cd043e211eceb3036ef94628ce7b5a11c33
         return new Twig_Source("<div>
     <?php echo \$view['form']->widget(\$form) ?>
 </div>
-", "@Framework/Form/button_row.html.php", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/framework-bundle/Resources/views/Form/button_row.html.php");
+", "@Framework/Form/button_row.html.php", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/framework-bundle/Resources/views/Form/button_row.html.php");
     }
 }

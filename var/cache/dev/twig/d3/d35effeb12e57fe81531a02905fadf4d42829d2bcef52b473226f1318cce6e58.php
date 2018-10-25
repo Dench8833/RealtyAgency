@@ -73,6 +73,6 @@ class __TwigTemplate_d16691ce2aad5f7e828c4926b5002a6693b925034af030715306b1dad91
         {{ error.message }}
     </div>
 {% endfor %}
-", "@SonataAdmin/Helper/render_form_dismissable_errors.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Helper/render_form_dismissable_errors.html.twig");
+", "@SonataAdmin/Helper/render_form_dismissable_errors.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Helper/render_form_dismissable_errors.html.twig");
     }
 }

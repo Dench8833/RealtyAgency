@@ -175,6 +175,6 @@ file that was distributed with this source code.
         {{ acl.render_form(aclUsersForm, permissions, 'td_username', admin, sonata_admin.adminPool, object) }}
     {% endblock %}
 {% endblock %}
-", "@SonataAdmin/CRUD/base_acl.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_acl.html.twig");
+", "@SonataAdmin/CRUD/base_acl.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_acl.html.twig");
     }
 }

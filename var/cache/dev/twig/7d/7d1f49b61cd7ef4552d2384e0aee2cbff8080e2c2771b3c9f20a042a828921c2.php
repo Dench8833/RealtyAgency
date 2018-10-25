@@ -111,6 +111,6 @@ file that was distributed with this source code.
         {% endif %}
     {% endfor %}
 {% endspaceless %}
-", "@SonataAdmin/CRUD/action_buttons.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/action_buttons.html.twig");
+", "@SonataAdmin/CRUD/action_buttons.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/action_buttons.html.twig");
     }
 }

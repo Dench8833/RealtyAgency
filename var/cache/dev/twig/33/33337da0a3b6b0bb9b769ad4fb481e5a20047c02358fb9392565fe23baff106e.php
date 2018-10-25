@@ -1659,6 +1659,6 @@ class __TwigTemplate_aba097a960b2607e457230584d54750c63c574750756e16ecc0a63e3eb6
         </tbody>
     </table>
 {% endmacro %}
-", "@Doctrine/Collector/db.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
+", "@Doctrine/Collector/db.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/doctrine/doctrine-bundle/Resources/views/Collector/db.html.twig");
     }
 }

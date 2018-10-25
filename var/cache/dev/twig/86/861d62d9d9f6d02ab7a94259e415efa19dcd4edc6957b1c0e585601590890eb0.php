@@ -128,6 +128,6 @@ file that was distributed with this source code.
         </script>
     {% endspaceless %}
 {% endblock sonata_type_color_selector_widget %}
-", "@SonataCore/Form/colorpicker.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/core-bundle/src/Resources/views/Form/colorpicker.html.twig");
+", "@SonataCore/Form/colorpicker.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/core-bundle/src/Resources/views/Form/colorpicker.html.twig");
     }
 }

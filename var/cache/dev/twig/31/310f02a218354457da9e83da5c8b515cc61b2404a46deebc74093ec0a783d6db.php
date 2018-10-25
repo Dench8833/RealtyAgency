@@ -149,6 +149,6 @@ file that was distributed with this source code.
     {% endfor %}
     </ul>
 {% endblock %}
-", "@SonataAdmin/CRUD/Association/show_one_to_many.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/show_one_to_many.html.twig");
+", "@SonataAdmin/CRUD/Association/show_one_to_many.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/show_one_to_many.html.twig");
     }
 }

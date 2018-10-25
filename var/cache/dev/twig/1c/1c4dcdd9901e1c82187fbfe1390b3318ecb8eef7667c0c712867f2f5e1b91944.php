@@ -94,6 +94,6 @@ file that was distributed with this source code.
         <input type=\"color\" {{ block('widget_attributes') }} {% if value is not empty %}value=\"{{ value }}\" {% endif %}/>
     {% endspaceless %}
 {% endblock sonata_type_color_widget %}
-", "@SonataCore/Form/color.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/core-bundle/src/Resources/views/Form/color.html.twig");
+", "@SonataCore/Form/color.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/core-bundle/src/Resources/views/Form/color.html.twig");
     }
 }

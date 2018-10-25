@@ -279,6 +279,6 @@ file that was distributed with this source code.
         {% endfor %}
     </tbody>
 </table>
-", "@SonataDoctrineORMAdmin/CRUD/edit_orm_one_to_many_inline_table.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/edit_orm_one_to_many_inline_table.html.twig");
+", "@SonataDoctrineORMAdmin/CRUD/edit_orm_one_to_many_inline_table.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/edit_orm_one_to_many_inline_table.html.twig");
     }
 }

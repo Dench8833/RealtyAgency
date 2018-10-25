@@ -1393,6 +1393,6 @@ This code manages the many-to-[one|many] association field popup
 <!-- / edit many association -->
 
 {% endautoescape %}
-", "@SonataAdmin/CRUD/Association/edit_many_script.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_many_script.html.twig");
+", "@SonataAdmin/CRUD/Association/edit_many_script.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_many_script.html.twig");
     }
 }

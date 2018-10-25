@@ -183,6 +183,6 @@ class __TwigTemplate_c06d2be66fc972c7ac6ad0118e0a0989940a816a478cce2c1603142d087
         </div>
     {% endfor %}
 </div>
-", "@SonataDatagrid/Search/results.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/datagrid-bundle/src/Resources/views/Search/results.html.twig");
+", "@SonataDatagrid/Search/results.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/datagrid-bundle/src/Resources/views/Search/results.html.twig");
     }
 }

@@ -257,6 +257,6 @@ file that was distributed with this source code.
 {%- block relation_value -%}
     {{- element|render_relation_element(field_description) -}}
 {%- endblock -%}
-", "@SonataAdmin/CRUD/Association/list_many_to_many.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/list_many_to_many.html.twig");
+", "@SonataAdmin/CRUD/Association/list_many_to_many.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/list_many_to_many.html.twig");
     }
 }

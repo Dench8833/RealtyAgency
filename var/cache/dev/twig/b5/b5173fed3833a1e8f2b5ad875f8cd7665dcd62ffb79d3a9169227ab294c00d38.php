@@ -210,6 +210,6 @@ class __TwigTemplate_387f59aa60d18d27f37cf2d011d55d3e036dfe892f7b84a093633f9fde0
         {{ include('@Twig/base_js.html.twig') }}
     </body>
 </html>
-", "@Twig/layout.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
+", "@Twig/layout.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/twig-bundle/Resources/views/layout.html.twig");
     }
 }

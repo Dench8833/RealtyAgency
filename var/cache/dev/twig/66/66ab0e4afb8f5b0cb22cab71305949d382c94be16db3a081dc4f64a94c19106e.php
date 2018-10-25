@@ -55,6 +55,6 @@ For the full copyright and license information, please view the LICENSE
 file that was distributed with this source code.
 
 #}
-", "@SonataBlock/Block/block_no_page_available.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_no_page_available.html.twig");
+", "@SonataBlock/Block/block_no_page_available.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_no_page_available.html.twig");
     }
 }

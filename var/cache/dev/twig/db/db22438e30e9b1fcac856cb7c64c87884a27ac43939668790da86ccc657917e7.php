@@ -82,6 +82,6 @@ class __TwigTemplate_cbb1cb253e350bffab4daf8ed5bde6b7ce4b4bc7c10e45f121cb903a655
 
 <h2>today is: {{ time }}</h2>
 
-", "main/index.html.twig", "/home/denische/phpStormProjects/realty-agency/templates/main/index.html.twig");
+", "main/index.html.twig", "/home/denische/phpStormProjects/RealtyAgency/templates/main/index.html.twig");
     }
 }

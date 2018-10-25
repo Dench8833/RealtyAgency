@@ -99,6 +99,6 @@ file that was distributed with this source code.
 {% block field%}
     {{ show.render_array(value, field_description.options.inline|default(false)) }}
 {% endblock %}
-", "@SonataAdmin/CRUD/show_array.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_array.html.twig");
+", "@SonataAdmin/CRUD/show_array.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_array.html.twig");
     }
 }

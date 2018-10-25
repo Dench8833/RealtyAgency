@@ -180,6 +180,6 @@ file that was distributed with this source code.
         </div>
     </div>
 {% endblock %}
-", "@SonataAdmin/CRUD/select_subclass.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/select_subclass.html.twig");
+", "@SonataAdmin/CRUD/select_subclass.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/select_subclass.html.twig");
     }
 }

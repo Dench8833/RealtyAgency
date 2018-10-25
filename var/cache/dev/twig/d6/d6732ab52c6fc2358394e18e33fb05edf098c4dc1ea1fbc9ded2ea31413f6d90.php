@@ -198,6 +198,6 @@ file that was distributed with this source code.
             <li><a href=\"{{ url(app.request.attributes.get('_route'), app.request.query.all|merge({page: datagrid.pager.lastpage})) }}\" title=\"{{ 'link_last_pager'|trans({}, 'SonataDatagridBundle') }}\">&raquo;</a></li>
         {% endif %}
     </ul>
-{% endblock %}", "@SonataDatagrid/Search/pager.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/datagrid-bundle/src/Resources/views/Search/pager.html.twig");
+{% endblock %}", "@SonataDatagrid/Search/pager.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/datagrid-bundle/src/Resources/views/Search/pager.html.twig");
     }
 }

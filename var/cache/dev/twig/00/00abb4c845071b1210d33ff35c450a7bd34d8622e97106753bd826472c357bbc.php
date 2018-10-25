@@ -106,6 +106,6 @@ file that was distributed with this source code.
         {% include get_admin_template('inner_list_row', admin.code) %}
     </tr>
 {% endfor %}
-", "@SonataAdmin/CRUD/list_outer_rows_list.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_outer_rows_list.html.twig");
+", "@SonataAdmin/CRUD/list_outer_rows_list.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_outer_rows_list.html.twig");
     }
 }

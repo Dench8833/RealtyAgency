@@ -120,6 +120,6 @@ file that was distributed with this source code.
 
     <span class=\"label {{ class }}\">{{ text }}</span>
 {% endspaceless -%}
-", "@SonataAdmin/CRUD/display_boolean.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/display_boolean.html.twig");
+", "@SonataAdmin/CRUD/display_boolean.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/display_boolean.html.twig");
     }
 }

@@ -351,6 +351,6 @@ file that was distributed with this source code.
 
     {% include '@SonataAdmin/CRUD/Association/edit_many_script.html.twig' %}
 {% endif %}
-", "@SonataAdmin/CRUD/Association/edit_one_to_one.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_one_to_one.html.twig");
+", "@SonataAdmin/CRUD/Association/edit_one_to_one.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/edit_one_to_one.html.twig");
     }
 }

@@ -68,6 +68,6 @@ file that was distributed with this source code.
 #}
 
 {% extends '@SonataAdmin/CRUD/base_list_inner_row.html.twig' %}
-", "@SonataAdmin/CRUD/list_inner_row.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_inner_row.html.twig");
+", "@SonataAdmin/CRUD/list_inner_row.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_inner_row.html.twig");
     }
 }

@@ -124,6 +124,6 @@ file that was distributed with this source code.
         {% include '@Twig/Exception/exception.html.twig' %}
     </div>
 {% endblock %}
-", "@SonataBlock/Block/block_exception_debug.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_exception_debug.html.twig");
+", "@SonataBlock/Block/block_exception_debug.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/block-bundle/src/Resources/views/Block/block_exception_debug.html.twig");
     }
 }

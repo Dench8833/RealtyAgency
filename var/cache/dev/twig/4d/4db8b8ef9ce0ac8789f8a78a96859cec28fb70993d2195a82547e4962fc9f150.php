@@ -284,6 +284,6 @@ file that was distributed with this source code.
         {% endif %}
     {% endfor %}
 {% endblock %}
-", "@SonataAdmin/Block/block_admin_list.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Block/block_admin_list.html.twig");
+", "@SonataAdmin/Block/block_admin_list.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Block/block_admin_list.html.twig");
     }
 }

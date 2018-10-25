@@ -159,6 +159,6 @@ file that was distributed with this source code.
     {% endif %}
     &nbsp;-&nbsp;
 {% endblock %}
-", "@SonataAdmin/Pager/simple_pager_results.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/simple_pager_results.html.twig");
+", "@SonataAdmin/Pager/simple_pager_results.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Pager/simple_pager_results.html.twig");
     }
 }

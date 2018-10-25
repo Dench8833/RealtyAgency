@@ -85,6 +85,6 @@ file that was distributed with this source code.
         </a>
     </li>
 {% endif %}
-", "@SonataAdmin/Button/show_button.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/Button/show_button.html.twig");
+", "@SonataAdmin/Button/show_button.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/Button/show_button.html.twig");
     }
 }

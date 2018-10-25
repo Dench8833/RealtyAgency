@@ -68,6 +68,6 @@ file that was distributed with this source code.
 #}
 
 {% extends '@SonataAdmin/CRUD/base_acl.html.twig' %}
-", "@SonataAdmin/CRUD/acl.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/acl.html.twig");
+", "@SonataAdmin/CRUD/acl.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/acl.html.twig");
     }
 }

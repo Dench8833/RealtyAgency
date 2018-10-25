@@ -82,6 +82,6 @@ class __TwigTemplate_dad2bd87a2ff73a48270c3ced4296c340ec87bfe1f9928904a71fa68e81
 {% block field %}
     {% include '@SonataAdmin/CRUD/_email_link.html.twig' %}
 {% endblock %}
-", "@SonataAdmin/CRUD/show_email.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_email.html.twig");
+", "@SonataAdmin/CRUD/show_email.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/show_email.html.twig");
     }
 }

@@ -120,6 +120,6 @@ file that was distributed with this source code.
         {{ value|render_relation_element(field_description) }}
     {% endif %}
 {% endblock %}
-", "@SonataAdmin/CRUD/Association/list_one_to_one.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/list_one_to_one.html.twig");
+", "@SonataAdmin/CRUD/Association/list_one_to_one.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/Association/list_one_to_one.html.twig");
     }
 }

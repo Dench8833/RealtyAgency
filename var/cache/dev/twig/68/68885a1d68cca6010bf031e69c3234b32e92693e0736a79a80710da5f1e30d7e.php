@@ -338,6 +338,6 @@ file that was distributed with this source code.
 
     {% include '@SonataDoctrineORMAdmin/CRUD/edit_orm_many_association_script.html.twig' %}
 {% endif %}
-", "@SonataDoctrineORMAdmin/CRUD/edit_orm_one_to_one.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/edit_orm_one_to_one.html.twig");
+", "@SonataDoctrineORMAdmin/CRUD/edit_orm_one_to_one.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/edit_orm_one_to_one.html.twig");
     }
 }

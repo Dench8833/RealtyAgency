@@ -157,6 +157,6 @@ class __TwigTemplate_ab3c6d867b8ad08e2c05f134e70691dfdab31fef5961b181cc58fb788d2
         {%- endfor -%}
     </pre>
 {% endif %}
-", "@Doctrine/Collector/explain.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
+", "@Doctrine/Collector/explain.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/doctrine/doctrine-bundle/Resources/views/Collector/explain.html.twig");
     }
 }

@@ -221,6 +221,6 @@ file that was distributed with this source code.
         </div>
     </div>
 {% endblock %}
-", "@SonataAdmin/CRUD/delete.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/delete.html.twig");
+", "@SonataAdmin/CRUD/delete.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/delete.html.twig");
     }
 }

@@ -98,6 +98,6 @@ file that was distributed with this source code.
 {% block field %}
     {{ list.render_array(value, field_description.options.inline is not defined or field_description.options.inline) }}
 {% endblock %}
-", "@SonataAdmin/CRUD/list_array.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_array.html.twig");
+", "@SonataAdmin/CRUD/list_array.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_array.html.twig");
     }
 }

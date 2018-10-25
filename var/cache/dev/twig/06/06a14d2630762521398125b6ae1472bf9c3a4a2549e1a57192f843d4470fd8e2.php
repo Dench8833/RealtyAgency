@@ -413,6 +413,6 @@ This template can be customized to match your needs. You should only extends the
         </div>
     </td>
 </tr>
-", "@SonataAdmin/CRUD/list_outer_rows_mosaic.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_outer_rows_mosaic.html.twig");
+", "@SonataAdmin/CRUD/list_outer_rows_mosaic.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list_outer_rows_mosaic.html.twig");
     }
 }

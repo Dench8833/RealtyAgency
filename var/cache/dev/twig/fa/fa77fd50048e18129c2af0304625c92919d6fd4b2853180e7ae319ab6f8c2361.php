@@ -134,6 +134,6 @@ file that was distributed with this source code.
         {% endif %}
     {% endif %}
 {% endblock %}
-", "@SonataDoctrineORMAdmin/CRUD/show_orm_many_to_one.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/show_orm_many_to_one.html.twig");
+", "@SonataDoctrineORMAdmin/CRUD/show_orm_many_to_one.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/CRUD/show_orm_many_to_one.html.twig");
     }
 }

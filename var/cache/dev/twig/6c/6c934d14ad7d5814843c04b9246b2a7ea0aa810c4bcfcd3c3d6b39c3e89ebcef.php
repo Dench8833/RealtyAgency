@@ -88,6 +88,6 @@ file that was distributed with this source code.
 {% extends base_template %}
 
 {% block field %}{{ form_widget(field_element, {'attr': {'class' : 'title'}}) }}{% endblock %}
-", "@SonataAdmin/CRUD/edit_file.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/edit_file.html.twig");
+", "@SonataAdmin/CRUD/edit_file.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/edit_file.html.twig");
     }
 }

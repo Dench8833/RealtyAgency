@@ -94,6 +94,6 @@ file that was distributed with this source code.
 {% block field %}
     <input type=\"checkbox\" name=\"idx[]\" value=\"{{ admin.id(object) }}\">
 {% endblock %}
-", "@SonataAdmin/CRUD/list__batch.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list__batch.html.twig");
+", "@SonataAdmin/CRUD/list__batch.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/list__batch.html.twig");
     }
 }

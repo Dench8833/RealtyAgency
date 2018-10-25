@@ -234,6 +234,6 @@ file that was distributed with this source code.
     </div>
 
 {% endblock %}
-", "@SonataDoctrineORMAdmin/Block/block_audit.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/Block/block_audit.html.twig");
+", "@SonataDoctrineORMAdmin/Block/block_audit.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/doctrine-orm-admin-bundle/src/Resources/views/Block/block_audit.html.twig");
     }
 }

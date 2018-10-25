@@ -128,6 +128,6 @@ file that was distributed with this source code.
         {{ block('field') }}
     {% endif %}
 </span>
-", "@SonataAdmin/CRUD/base_list_flat_field.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_list_flat_field.html.twig");
+", "@SonataAdmin/CRUD/base_list_flat_field.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_list_flat_field.html.twig");
     }
 }

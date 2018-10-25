@@ -59,6 +59,6 @@ class __TwigTemplate_1d6d8aedf68c8d03a82db9e4c24a998f635bd77c59bf1df8282e99d482f
         <?php echo \$view['form']->widget(\$form); ?>
     </td>
 </tr>
-", "@Framework/FormTable/button_row.html.php", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/framework-bundle/Resources/views/FormTable/button_row.html.php");
+", "@Framework/FormTable/button_row.html.php", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/framework-bundle/Resources/views/FormTable/button_row.html.php");
     }
 }

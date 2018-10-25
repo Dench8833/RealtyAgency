@@ -121,6 +121,6 @@ class __TwigTemplate_3dc4cee5b3f6ea13241473ac24ac3f31a3d0aad6ff88afbb5a37edf056e
 .exception-message-wrapper .container {
     min-height: auto;
 }
-", "@WebProfiler/Collector/exception.css.twig", "/home/denische/phpStormProjects/realty-agency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
+", "@WebProfiler/Collector/exception.css.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/symfony/web-profiler-bundle/Resources/views/Collector/exception.css.twig");
     }
 }

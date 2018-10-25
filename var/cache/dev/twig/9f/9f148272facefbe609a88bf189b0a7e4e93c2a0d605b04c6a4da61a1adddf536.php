@@ -193,6 +193,6 @@ file that was distributed with this source code.
         {% block errors %}{{ form_errors(field_element) }}{% endblock %}
     </div>
 </div>
-", "@SonataAdmin/CRUD/base_inline_edit_field.html.twig", "/home/denische/phpStormProjects/realty-agency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_inline_edit_field.html.twig");
+", "@SonataAdmin/CRUD/base_inline_edit_field.html.twig", "/home/denische/phpStormProjects/RealtyAgency/vendor/sonata-project/admin-bundle/src/Resources/views/CRUD/base_inline_edit_field.html.twig");
     }
 }
