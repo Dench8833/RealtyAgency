@@ -44,26 +44,26 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
         ";
         // line 7
         $this->displayBlock('stylesheets', $context, $blocks);
-        // line 14
+        // line 15
         echo "    </head>
     <body>
         ";
-        // line 16
+        // line 17
         $this->displayBlock('header', $context, $blocks);
-        // line 44
-        echo "        ";
+        // line 48
+        echo "
+        ";
+        // line 49
         $this->displayBlock('body', $context, $blocks);
-        // line 191
+        // line 196
         echo "
         ";
-        // line 192
+        // line 197
         $this->displayBlock('footer', $context, $blocks);
-        // line 199
-        echo "
-        ";
-        // line 200
+        // line 204
+        echo "        ";
         $this->displayBlock('javascripts', $context, $blocks);
-        // line 206
+        // line 210
         echo "    </body>
 </html>
 ";
@@ -122,6 +122,10 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
         // line 12
         echo twig_escape_filter($this->env, $this->extensions['Symfony\Bridge\Twig\Extension\AssetExtension']->getAssetUrl("css/admin.css"), "html", null, true);
         echo "\">
+            <link rel=\"stylesheet\" href=\"";
+        // line 13
+        echo twig_escape_filter($this->env, $this->extensions['Symfony\Bridge\Twig\Extension\AssetExtension']->getAssetUrl("css/signin.css"), "html", null, true);
+        echo "\">
         ";
         
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->leave($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof);
@@ -131,7 +135,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
 
     }
 
-    // line 16
+    // line 17
     public function block_header($context, array $blocks = array())
     {
         $__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e = $this->extensions["Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension"];
@@ -140,7 +144,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "header"));
 
-        // line 17
+        // line 18
         echo "            <nav class=\"navbar navbar-expand-lg navbar-dark bg-dark fixed-top\">
                 <div class=\"container\">
                     <a class=\"navbar-brand\" href=\"#\">RealtyAgency</a>
@@ -151,7 +155,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
                         <ul class=\"navbar-nav ml-auto\">
                             <li class=\"nav-item active\">
                                 <a class=\"nav-link\" href=\"";
-        // line 26
+        // line 27
         echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("main_page");
         echo "\">Home
                                     <span class=\"sr-only\">(current)</span>
@@ -166,6 +170,12 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
                             <li class=\"nav-item\">
                                 <a class=\"nav-link\" href=\"#\">Contact</a>
                             </li>
+                            <li class=\"nav-item\">
+                                <a class=\"nav-link\" href=\"";
+        // line 41
+        echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("app_login");
+        echo "\">Login</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -179,7 +189,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
 
     }
 
-    // line 44
+    // line 49
     public function block_body($context, array $blocks = array())
     {
         $__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e = $this->extensions["Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension"];
@@ -188,7 +198,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "body"));
 
-        // line 45
+        // line 50
         echo "            <div class=\"container\">
 
                 <div class=\"row\">
@@ -241,7 +251,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
                                     <div class=\"card-body\">
                                         <h4 class=\"card-title\">
                                             <a href=\"";
-        // line 96
+        // line 101
         echo $this->extensions['Symfony\Bridge\Twig\Extension\RoutingExtension']->getPath("apartment");
         echo "\">Item One</a>
                                         </h4>
@@ -346,7 +356,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
 
     }
 
-    // line 192
+    // line 197
     public function block_footer($context, array $blocks = array())
     {
         $__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e = $this->extensions["Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension"];
@@ -355,7 +365,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "footer"));
 
-        // line 193
+        // line 198
         echo "            <footer class=\"py-5 bg-dark\">
                 <div class=\"container\">
                     <p class=\"m-0 text-center text-white\">Copyright &copy; Den-Che 2018</p>
@@ -370,7 +380,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
 
     }
 
-    // line 200
+    // line 204
     public function block_javascripts($context, array $blocks = array())
     {
         $__internal_085b0142806202599c7fe3b329164a92397d8978207a37e79d70b8c52599e33e = $this->extensions["Symfony\\Bundle\\WebProfilerBundle\\Twig\\WebProfilerExtension"];
@@ -379,20 +389,20 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02 = $this->extensions["Symfony\\Bridge\\Twig\\Extension\\ProfilerExtension"];
         $__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02->enter($__internal_319393461309892924ff6e74d6d6e64287df64b63545b994e100d4ab223aed02_prof = new Twig_Profiler_Profile($this->getTemplateName(), "block", "javascripts"));
 
-        // line 201
+        // line 205
         echo "            <script src=\"";
         echo twig_escape_filter($this->env, $this->extensions['Symfony\Bridge\Twig\Extension\AssetExtension']->getAssetUrl("jquery/jquery.min.js"), "html", null, true);
         echo "\"></script>
             <script src=\"";
-        // line 202
+        // line 206
         echo twig_escape_filter($this->env, $this->extensions['Symfony\Bridge\Twig\Extension\AssetExtension']->getAssetUrl("js/bootstrap.js"), "html", null, true);
         echo "\"></script>
             <script src=\"";
-        // line 203
+        // line 207
         echo twig_escape_filter($this->env, $this->extensions['Symfony\Bridge\Twig\Extension\AssetExtension']->getAssetUrl("js/app.js"), "html", null, true);
         echo "\"></script>
             <script src=\"";
-        // line 204
+        // line 208
         echo twig_escape_filter($this->env, $this->extensions['Symfony\Bridge\Twig\Extension\AssetExtension']->getAssetUrl("js/admin.js"), "html", null, true);
         echo "\"></script>
         ";
@@ -411,7 +421,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
 
     public function getDebugInfo()
     {
-        return array (  396 => 204,  392 => 203,  388 => 202,  383 => 201,  374 => 200,  359 => 193,  350 => 192,  245 => 96,  192 => 45,  183 => 44,  155 => 26,  144 => 17,  135 => 16,  123 => 12,  119 => 11,  115 => 10,  111 => 9,  106 => 8,  97 => 7,  79 => 6,  67 => 206,  65 => 200,  62 => 199,  60 => 192,  57 => 191,  54 => 44,  52 => 16,  48 => 14,  46 => 7,  42 => 6,  35 => 1,);
+        return array (  406 => 208,  402 => 207,  398 => 206,  393 => 205,  384 => 204,  369 => 198,  360 => 197,  255 => 101,  202 => 50,  193 => 49,  176 => 41,  159 => 27,  148 => 18,  139 => 17,  127 => 13,  123 => 12,  119 => 11,  115 => 10,  111 => 9,  106 => 8,  97 => 7,  79 => 6,  67 => 210,  64 => 204,  62 => 197,  59 => 196,  57 => 49,  54 => 48,  52 => 17,  48 => 15,  46 => 7,  42 => 6,  35 => 1,);
     }
 
     public function getSourceContext()
@@ -428,6 +438,7 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
             <link rel=\"stylesheet\" href=\"{{ asset('css/shop-homepage.css') }}\">
             <link rel=\"stylesheet\" href=\"{{ asset('css/app.css') }}\">
             <link rel=\"stylesheet\" href=\"{{ asset('css/admin.css') }}\">
+            <link rel=\"stylesheet\" href=\"{{ asset('css/signin.css') }}\">
         {% endblock %}
     </head>
     <body>
@@ -454,11 +465,15 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
                             <li class=\"nav-item\">
                                 <a class=\"nav-link\" href=\"#\">Contact</a>
                             </li>
+                            <li class=\"nav-item\">
+                                <a class=\"nav-link\" href=\"{{ path('app_login') }}\">Login</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
             </nav>
         {% endblock %}
+
         {% block body %}
             <div class=\"container\">
 
@@ -614,7 +629,6 @@ class __TwigTemplate_9ed44c2daf83bc2cd11b7ab4641f51b8d3832cbf4d47a8c71e2b588e1ed
                 </div>
             </footer>
         {% endblock %}
-
         {% block javascripts %}
             <script src=\"{{ asset('jquery/jquery.min.js') }}\"></script>
             <script src=\"{{ asset('js/bootstrap.js') }}\"></script>

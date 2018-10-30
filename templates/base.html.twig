@@ -10,6 +10,7 @@
             <link rel="stylesheet" href="{{ asset('css/shop-homepage.css') }}">
             <link rel="stylesheet" href="{{ asset('css/app.css') }}">
             <link rel="stylesheet" href="{{ asset('css/admin.css') }}">
+            <link rel="stylesheet" href="{{ asset('css/signin.css') }}">
         {% endblock %}
     </head>
     <body>
@@ -36,11 +37,15 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Contact</a>
                             </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="{{ path('app_login') }}">Login</a>
+                            </li>
                         </ul>
                     </div>
                 </div>
             </nav>
         {% endblock %}
+
         {% block body %}
             <div class="container">
 
@@ -196,7 +201,6 @@
                 </div>
             </footer>
         {% endblock %}
-
         {% block javascripts %}
             <script src="{{ asset('jquery/jquery.min.js') }}"></script>
             <script src="{{ asset('js/bootstrap.js') }}"></script>
